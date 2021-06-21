@@ -1,0 +1,45 @@
+{
+  "palette": {
+    "primary": {
+      "main": "#035AFC"
+    },
+    "secondary": {
+      "main": "#1E1E1E"
+    }
+  },
+  "typography": {
+    "fontFamily": "Montserrat, sans-serif",
+    "button": {
+      "fontWeight": 400,
+      "letterSpacing": 1,
+      "textTransform": "none"
+    },
+    "h1": {
+      "fontSize": "3rem",
+      "fontWeight": 500
+    },
+    "h2": {
+      "fontSize": "2.5rem",
+      "fontWeight": 500
+    },
+    "h3": {
+      "fontSize": "2rem",
+      "fontWeight": 400
+    },
+    "h4": {
+      "fontSize": "1.7rem"
+    }
+  },
+  "overrides": {
+    "MuiStepper": {
+      "root": {
+        "background": "none",
+        "border": "none",
+        "padding": 0
+      }
+    },
+    "MuiButton": {
+      "root": { "fontWeight": 500 }
+    }
+  }
+}

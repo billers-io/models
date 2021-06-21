@@ -4,5 +4,6 @@
     "solids": [],
     "brands": [],
     "regulars": []
-  }
+  },
+  "basePath": "/"
 }
