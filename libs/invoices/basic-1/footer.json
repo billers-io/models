@@ -140,10 +140,10 @@
         }
       },
       "variant": "h6",
-      "text": "{{meta_data_message}}"
+      "text": "{{meta_message}}"
     },
     "displayName": "Title",
-    "custom": { "displayName": "meta_data_message" },
+    "custom": { "displayName": "meta_message" },
     "hidden": false,
     "parent": "IC12dwAWE"
   },
@@ -180,10 +180,10 @@
         "origin": { "global": { "fontSize": "14PX", "width": "100%" } }
       },
       "variant": "caption",
-      "text": "{{meta_data_condition}}"
+      "text": "{{meta_condition}}"
     },
     "displayName": "Title",
-    "custom": { "displayName": "meta_data_condition" },
+    "custom": { "displayName": "meta_condition" },
     "hidden": false,
     "parent": "IC12dwAWE"
   },
@@ -276,10 +276,10 @@
     "props": {
       "styles": { "origin": { "global": { "fontSize": "14PX" } } },
       "variant": "subtitle1",
-      "text": "Date limite : {{meta_data_date_limit}}"
+      "text": "Date limite : {{meta_date_limit}}"
     },
     "displayName": "Title",
-    "custom": { "displayName": "meta_data_date_limit" },
+    "custom": { "displayName": "meta_date_limit" },
     "hidden": false,
     "parent": "wPp9sFOmo"
   },
@@ -289,10 +289,10 @@
     "props": {
       "styles": { "origin": { "global": { "fontSize": "14PX" } } },
       "variant": "subtitle1",
-      "text": "Mode de paiement : {{meta_data_payment_method}}"
+      "text": "Mode de paiement : {{meta_payment_method}}"
     },
     "displayName": "Title",
-    "custom": { "displayName": "meta_data_payment_method" },
+    "custom": { "displayName": "meta_payment_method" },
     "hidden": false,
     "parent": "wPp9sFOmo"
   },
@@ -318,7 +318,7 @@
       "tag": "div"
     },
     "displayName": "Box",
-    "custom": { "displayName": "meta_data_payment_method" },
+    "custom": { "displayName": "meta_payment_method" },
     "hidden": false,
     "nodes": ["_eMvw83UH", "llrlly2Gw", "RRL-PaD_V"],
     "parent": "IC12dwAWE"
@@ -338,10 +338,10 @@
         }
       },
       "variant": "caption",
-      "text": "{{meta_data_mention}}"
+      "text": "{{meta_mention}}"
     },
     "displayName": "Title",
-    "custom": { "displayName": "meta_data_mention" },
+    "custom": { "displayName": "meta_mention" },
     "hidden": false,
     "parent": "ROOT"
   },
